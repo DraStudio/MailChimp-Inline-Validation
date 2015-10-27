@@ -12,6 +12,10 @@ div#mc_embed_signup div#mce-responses { margin: 0; padding: 0; }
 
 div#mc_embed_signup div#mce-responses .response { padding: 0; }
 
-div#mc_embed_signup div#mce-responses #mce-error-response, div#mc_embed_signup div#mce-responses #mce-success-response { margin: 1em; padding: 0; display: block; font-weight: normal; }
+div#mc_embed_signup div#mce-responses #mce-error-response, div#mc_embed_signup div#mce-responses #mce-success-response { padding: 0; display: block; font-weight: normal; }
+
+div#mc_embed_signup div#mce-responses #mce-error-response { margin: 1em; }
+
+div#mc_embed_signup div#mce-responses #mce-success-response { margin: 0.5em 1em; text-indent: -9999px; min-height: 32px; background: #fff url("success.png") left center no-repeat; background-size: 400px; }
 
 div#mc_embed_signup input#mc-embedded-subscribe { background-color: #D71A21; }

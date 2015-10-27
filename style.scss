@@ -36,10 +36,19 @@ div#mc_embed_signup{
 		
 		#mce-error-response,
 		#mce-success-response{
-			margin: 1em;
 			padding: 0;
 			display: block;
 			font-weight: normal;
+		}
+		#mce-error-response{
+			margin: 1em;
+		}
+		#mce-success-response{
+		    margin: .5em 1em;
+		    text-indent: -9999px;
+		    min-height: 32px;
+		    background: #fff url("success.png") left center no-repeat;
+		    background-size: 400px;
 		}
 	}
 	input#mc-embedded-subscribe{
