@@ -1,0 +1,17 @@
+div#mc_embed_signup { background: #FFF; clear: left; font: 14px Helvetica,Arial,sans-serif; }
+
+div#mc_embed_signup .mc-field-group { padding-bottom: 0; }
+
+div#mc_embed_signup .mc-field-group input#mce-EMAIL { border-width: 2px; font-size: .85em; border-radius: .5em; outline: 0; }
+
+div#mc_embed_signup input.mce_inline_error { border-color: #D71A21; }
+
+div#mc_embed_signup div.mce_inline_error { margin: 1em; padding: 0; display: block; font-weight: normal; background-color: #FFF; color: #D71A21; }
+
+div#mc_embed_signup div#mce-responses { margin: 0; padding: 0; }
+
+div#mc_embed_signup div#mce-responses .response { padding: 0; }
+
+div#mc_embed_signup div#mce-responses #mce-error-response, div#mc_embed_signup div#mce-responses #mce-success-response { margin: 1em; padding: 0; display: block; font-weight: normal; }
+
+div#mc_embed_signup input#mc-embedded-subscribe { background-color: #D71A21; }

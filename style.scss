@@ -1,0 +1,48 @@
+$bg: #FFF;
+$highlight: #D71A21;
+
+div#mc_embed_signup{
+	background: $bg;
+	clear: left;
+	font: 14px Helvetica,Arial,sans-serif;
+
+	.mc-field-group{
+		padding-bottom: 0;
+		input#mce-EMAIL{
+			border-width: 2px;
+			font-size: .85em;
+			border-radius: .5em;
+			outline: 0;
+		}		
+	}
+	input.mce_inline_error{
+		border-color: $highlight;
+	}
+	div.mce_inline_error{
+		margin: 1em;
+		padding: 0;
+		display: block;
+		font-weight: normal;
+		background-color: $bg;
+		color: $highlight;	
+	}
+	div#mce-responses{
+		margin: 0;
+		padding: 0;
+		
+		.response{
+			padding: 0;
+		}
+		
+		#mce-error-response,
+		#mce-success-response{
+			margin: 1em;
+			padding: 0;
+			display: block;
+			font-weight: normal;
+		}
+	}
+	input#mc-embedded-subscribe{
+		background-color: $highlight;
+	}
+}
